@@ -1,0 +1,12 @@
+{
+  "chainId": 101,
+  "address": "FKGukhemmrTcuKoKDuAUf9rCWxoK9b6s5rzJXA5aTrcQ",
+  "symbol": "DVX",
+  "name": "DVXCOIN",
+  "decimals": 9,
+  "logoURI": "https://ipfs.io/ipfs/bafkreifh4y7k7c2eh7hnqzsfugjg4w65xhomwzndlemk72rnloo57yspiu",
+  "tags": ["memecoin"],
+  "extensions": {
+    "description": "DVXCOIN is the memecoin of absolute order. No team. No roadmap. Just pure dominance on Solana.\n\nThe slogan is one and only: “Win. And we shall win.”\n\n$DVX – a command, not a request."
+  }
+}
